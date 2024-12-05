@@ -25,7 +25,7 @@
     "href": "reports/qmd_example.html#methods",
     "title": "DSCI 310: Historical Horse Population in Canada",
     "section": "Methods",
-    "text": "Methods\nThe Python programming language (Van Rossum and Drake 2009) and the following Python packages were used to perform the analysis: pandas (McKinney 2010), altair (VanderPlas 2018), click (Team 2020), as well as Quarto (Allaire et al. 2022). Note: this report is adapted from (Timbers (2020))."
+    "text": "Methods\nThe Python programming language (Van Rossum and Drake 2009) and the following Python packages were used to perform the analysis: pandas (McKinney 2010), altair (VanderPlas 2018), click (Team 2020), as well as Quarto (Allaire et al. 2022). Note: this report is adapted from (Timbers 2020)."
   },
   {
     "objectID": "reports/qmd_example.html#results",
