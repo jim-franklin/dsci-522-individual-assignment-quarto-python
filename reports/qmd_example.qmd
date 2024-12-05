@@ -40,7 +40,7 @@ The Python programming language [@Python]
 and the following Python packages were used to perform the analysis: 
 pandas [@pandas], altair [@altair], click [@click], 
 as well as Quarto [@Allaire_Quarto_2022]. 
-*Note: this report is adapted from (@ttimbers-horses).* 
+*Note: this report is adapted from [@ttimbers-horses].* 
 
 ## Results
 
